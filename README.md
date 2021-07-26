@@ -31,3 +31,5 @@ My idea is to have a player ball navigate a ball pit to get to the bottom. <br /
 * stretch goals include the timer, choosing player ball color, more than 3 levels, maybe some DB integration or something for best times
 
 ### PM
+
+Made significant progress with some quirky holdups, such as windows encoding gitignores, and I'm feeling really comfortable with Unity now, I still am just finishing the tutorial game just to get comprehensive understanding so I can get out the game. I plan to finish the Unity tutorial video to understand a few other concepts this evening. I am very confident I can get a game created in the time I have left, Unity makes it about 100x easier than raw scripting, I'm feeling good!
