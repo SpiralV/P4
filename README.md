@@ -26,8 +26,8 @@ Continued to work on Unity tutorials, stuff isn't very obvious to me trying to s
 <img src="https://i.ibb.co/DDWjD3W/roughsketch.png" alt="roughsketch" border="0"> <br />
 My idea is to have a player ball navigate a ball pit to get to the bottom. <br />
 
->different colored balls have different physical properties to make it difficult to navigate.
->plan to make at least 3 levels
->stretch goals include the timer, choosing player ball color, more than 3 levels, maybe some DB integration or something for best times
+* different colored balls have different physical properties to make it difficult to navigate.
+* plan to make at least 3 levels
+* stretch goals include the timer, choosing player ball color, more than 3 levels, maybe some DB integration or something for best times
 
 ### PM
