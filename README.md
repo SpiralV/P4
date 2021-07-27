@@ -33,3 +33,12 @@ My idea is to have a player ball navigate a ball pit to get to the bottom. <br /
 ### PM
 
 Made significant progress with some quirky holdups, such as windows encoding gitignores, and I'm feeling really comfortable with Unity now, I still am just finishing the tutorial game just to get comprehensive understanding so I can get out the game. I plan to finish the Unity tutorial video to understand a few other concepts this evening. I am very confident I can get a game created in the time I have left, Unity makes it about 100x easier than raw scripting, I'm feeling good!
+
+---
+
+## Tuesday
+
+### AM 
+
+Need ball asset, edge asset, multiple colored balls, Different ball for player, Background something, title screen, sfx, bgm(opt) <br />
+Still want to finish the Unity tutorials but I am running out of time so I'm going to see how far I can get without my missing pieces of knowledge
