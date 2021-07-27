@@ -26,8 +26,19 @@ Continued to work on Unity tutorials, stuff isn't very obvious to me trying to s
 <img src="https://i.ibb.co/DDWjD3W/roughsketch.png" alt="roughsketch" border="0"> <br />
 My idea is to have a player ball navigate a ball pit to get to the bottom. <br />
 
->different colored balls have different physical properties to make it difficult to navigate.
->plan to make at least 3 levels
->stretch goals include the timer, choosing player ball color, more than 3 levels, maybe some DB integration or something for best times
+* different colored balls have different physical properties to make it difficult to navigate.
+* plan to make at least 3 levels
+* stretch goals include the timer, choosing player ball color, more than 3 levels, maybe some DB integration or something for best times
 
 ### PM
+
+Made significant progress with some quirky holdups, such as windows encoding gitignores, and I'm feeling really comfortable with Unity now, I still am just finishing the tutorial game just to get comprehensive understanding so I can get out the game. I plan to finish the Unity tutorial video to understand a few other concepts this evening. I am very confident I can get a game created in the time I have left, Unity makes it about 100x easier than raw scripting, I'm feeling good!
+
+---
+
+## Tuesday
+
+### AM 
+
+Need ball asset, edge asset, multiple colored balls, Different ball for player, Background something, title screen, sfx, bgm(opt) <br />
+Still want to finish the Unity tutorials but I am running out of time so I'm going to see how far I can get without my missing pieces of knowledge
