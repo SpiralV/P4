@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/FallBallTitle.unity
+    guid: 2dc8a0f59548da640bcfaa0ac8c9ddd5
+  - enabled: 1
+    path: Assets/Scenes/FallBall-lv1.unity
+    guid: 2c749e054516bf14c8d4edac370e892d
+  - enabled: 1
+    path: Assets/Scenes/LevelPass.unity
+    guid: 0aa9a35a838536d4c8020bb4535e83ff
   m_configObjects: {}
