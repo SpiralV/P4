@@ -40,5 +40,17 @@ Made significant progress with some quirky holdups, such as windows encoding git
 
 ### AM 
 
-Need ball asset, edge asset, multiple colored balls, Different ball for player, Background something, title screen, sfx, bgm(opt) <br />
-Still want to finish the Unity tutorials but I am running out of time so I'm going to see how far I can get without my missing pieces of knowledge
+As of this morning, I still had not really got anything going on the actual game, so I spent the morning gathering assets and setting up my first rough idea of a level. <br />
+<img src="https://i.ibb.co/YynfLMv/image.png" alt="image" border="0"> <br />
+Things I still need are: <br />
+* player movement
+* other balls to have different physical properties 
+* one more asset so there's a barrier to pass through for the player ball 
+* some kind of effect when the bottom/goal/hole is reached.
+* Title screen functionality
+* Level complete functionality
+
+Current Stretch Goals
+* Some kind of ball generator perhaps, if randomizing  and limiting them isn't too much of a challenge. 
+* Timer to track progress
+* Add music to all screens  
