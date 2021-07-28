@@ -5,8 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class NextLevelPass : MonoBehaviour
 {
-    public void NextLevel()
+    private float delayTime = 4f;
+    private float timePass;
+    void Update ()
     {
-        SceneManager.LoadScene("LevelPass");
+        timePass += Time.deltaTime;
+        if (timePass > delayTime)
+        {
+            SceneManager.LoadScene("FallBall-lv2-1");
+        }
     }
 }

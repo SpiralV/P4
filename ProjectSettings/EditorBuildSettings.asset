@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelPass.unity
     guid: 0aa9a35a838536d4c8020bb4535e83ff
+  - enabled: 1
+    path: Assets/Scenes/FallBall-lv2-1.unity
+    guid: e358049976568ea42bf502bc57076c33
+  - enabled: 0
+    path: Assets/Scenes/FallBall-lv3.unity
+    guid: e660545684719b44b95ee757db342d3e
   m_configObjects: {}
