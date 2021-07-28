@@ -54,3 +54,19 @@ Current Stretch Goals
 * Some kind of ball generator perhaps, if randomizing  and limiting them isn't too much of a challenge. 
 * Timer to track progress
 * Add music to all screens  
+
+### PM
+
+I added player movement, and gave the other balls some slight differences in physical properties. I got hung up for a while trying to add a dash button, but time is running out so I got the title screen to connect to the gameplay screen, and now I just need to figure out the collision event stuff so when you reach the goal area it takes you to the level complete screen. <br />
+Next steps:  
+* Finish connecting scripts for game scenes
+* Add controls/explanation somewhere
+* Have the balls fall in a scripted order/make a random ball generator
+* Add more than 1 level
+* Add maybe a game finished screen as well.
+
+Stretch Zone:  
+* Animate Title Screen with Game Objects instead of a static image
+* Sound effects/Background music
+* Make the balls have more distinct differences/interact with player ball
+* Make like 5 levels 
